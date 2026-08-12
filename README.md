@@ -45,9 +45,16 @@ Une fois importé dans Garmin Connect, l'entraînement peut être **transféré 
 #### Option 1 — Chrome Web Store (recommandé)
 
 1. Ouvrez le [Chrome Web Store](https://chromewebstore.google.com)
-2. Recherchez **GarminWO**
-3. Cliquez sur **Ajouter à Chrome**
-4. Confirmez avec **Ajouter l'extension**
+2. Recherchez **Garmin Workout** <img width="128" height="128" alt="icon128" src="https://github.com/user-attachments/assets/583726e7-e397-4a28-bbdc-dc3e5b9c4114" />
+
+   [https://chromewebstore.google.com/detail/garmin-workout-%E2%80%94-s%C3%A9ances/amlgfnkjdpandddidpmnjdeogcoanoia?hl=fr&utm_source=ext_sidebar](url)
+4. Cliquez sur **Ajouter à Chrome**
+5. Confirmez avec **Ajouter l'extension**
+6. Renseignez les informations demandées:
+   
+   <img width="465" height="678" alt="GWo-Ext-Menu" src="https://github.com/user-attachments/assets/a9b65d10-a9e7-4986-8b2a-c2eaece7b662" />
+8. Retrouvez sur la page "Entrainements" les boutons de mise en forme des séances, de lien et les cases à cocher pour supprimer des séances:
+   <img width="1261" height="925" alt="GC_Trainings" src="https://github.com/user-attachments/assets/91893b9f-1a5d-40e6-8af2-eec337038271" />
 
 #### Option 2 — Chargement manuel (mode développeur)
 
