@@ -52,7 +52,8 @@ Une fois importé dans Garmin Connect, l'entraînement peut être **transféré 
 5. Confirmez avec **Ajouter l'extension**
 6. Renseignez les informations demandées:
    
-   <img width="465" height="678" alt="GWo-Ext-Menu" src="https://github.com/user-attachments/assets/a9b65d10-a9e7-4986-8b2a-c2eaece7b662" />
+   <img width="372" height="647" alt="image" src="https://github.com/user-attachments/assets/1f8098a4-9d84-4165-a186-b8358495c144" />
+
 8. Retrouvez sur la page "Entrainements" les boutons de mise en forme des séances, de lien et les cases à cocher pour supprimer des séances:
    <img width="1261" height="925" alt="GC_Trainings" src="https://github.com/user-attachments/assets/91893b9f-1a5d-40e6-8af2-eec337038271" />
 
