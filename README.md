@@ -40,7 +40,30 @@ Une fois importé dans Garmin Connect, l'entraînement peut être **transféré 
 | 🔒 Vie privée | Aucun serveur — aucune donnée collectée — clé API stockée localement |
 | 🆓 Gratuit | Open source — Gemini offre 1500 analyses gratuites par jour |
 
-### Installation
+---
+
+## Utilisation
+<img width="370" height="203" alt="image" src="https://github.com/user-attachments/assets/1609bf55-2190-458a-b4df-3108d75a7f6f" />
+
+<img width="748" height="832" alt="image" src="https://github.com/user-attachments/assets/4d20d770-ab38-4426-b791-2fcac907201e" />
+
+- Sélectionner l'entrainement puis clic droit et "Envoyer à GarminWO" :
+
+<img width="944" height="865" alt="image" src="https://github.com/user-attachments/assets/96af8cf6-4012-4d0f-8064-737d37564a1e" />
+
+
+- Cliquer sur "Importer dans Garmin Connect":
+
+<img width="953" height="860" alt="image" src="https://github.com/user-attachments/assets/d5562017-d09e-4389-92b7-80e376739b0f" />
+
+
+- L'entrainement est mis en forme avec les temps VMA si sur "AUTO" ou "TOUJOURS" sinon basculer sur "JAMAIS":
+
+<img width="955" height="1010" alt="image" src="https://github.com/user-attachments/assets/14e50ff5-7a40-4f9d-a654-060948db3e10" />
+
+---
+
+## Installation
 
 #### Option 1 — Chrome Web Store (recommandé)
 
