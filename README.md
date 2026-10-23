@@ -14,6 +14,8 @@
 ## 🇫🇷 Français
 
 ### Présentation
+<img width="1280" height="800" alt="screenshot-1280x800-fr" src="https://github.com/user-attachments/assets/cd957887-eb46-4da9-82ff-da8c42a54524" />
+
 <img width="1400" height="560" alt="promo-marquee-1400x560-fr" src="https://github.com/user-attachments/assets/95b33bec-c906-4b02-a971-2f6356add855" />
 **GarminWO** est une extension Chrome gratuite qui permet d'importer des séances d'entraînement running directement dans **Garmin Connect** depuis :
 
@@ -118,6 +120,9 @@ Une fois importé dans Garmin Connect, l'entraînement peut être **transféré 
 ## 🇬🇧 English
 
 ### Overview
+<img width="1280" height="800" alt="screenshot-1280x800-en" src="https://github.com/user-attachments/assets/0826d68f-f27f-4601-9f3f-a083ab0539e2" />
+
+<img width="1400" height="560" alt="promo-marquee-1400x560-en" src="https://github.com/user-attachments/assets/b6c243fd-2c8c-4cbc-b65f-2ead75b548f1" />
 
 **GarminWO** is a free Chrome extension that imports running workouts directly into **Garmin Connect** from:
 
