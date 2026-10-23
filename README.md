@@ -14,12 +14,13 @@
 ## 🇫🇷 Français
 
 ### Présentation
-
+<img width="1400" height="560" alt="promo-marquee-1400x560-fr" src="https://github.com/user-attachments/assets/95b33bec-c906-4b02-a971-2f6356add855" />
 **GarminWO** est une extension Chrome gratuite qui permet d'importer des séances d'entraînement running directement dans **Garmin Connect** depuis :
 
 - 📸 Une **photo ou screenshot** de plan d'entraînement (JPG, PNG)
 - 📝 Une **sélection de texte** sur n'importe quelle page web (Facebook, forum, site coach…)
 - 📂 Un **fichier JSON** exporté depuis Garmin Connect
+
 
 L'analyse visuelle ou textuelle est réalisée par une IA (**Google Gemini** gratuit ou **Anthropic Claude** payant) qui détecte automatiquement les étapes, allures et conditions de chaque séance.
 
@@ -36,7 +37,7 @@ Une fois importé dans Garmin Connect, l'entraînement peut être **transféré 
 | 🗑️ Suppression multiple | Cases à cocher dans la liste Garmin → suppression en masse |
 | 🔄 Bouton Réessayer | Relance l'analyse en cas d'erreur API temporaire |
 | ❓ Aide intégrée | Bouton ? dans le modal → ouvre le guide PDF dans la langue du navigateur |
-| 🌍 6 langues | Français, Anglais, Espagnol, Allemand, Italien, Russe |
+| 🌍 10 langues | Français, Anglais, Espagnol, Allemand, Italien, Russe, Portugais, Brésilien, Chinois, Japonais |
 | 🔒 Vie privée | Aucun serveur — aucune donnée collectée — clé API stockée localement |
 | 🆓 Gratuit | Open source — Gemini offre 1500 analyses gratuites par jour |
 
@@ -52,10 +53,9 @@ Une fois importé dans Garmin Connect, l'entraînement peut être **transféré 
 <img width="944" height="865" alt="image" src="https://github.com/user-attachments/assets/96af8cf6-4012-4d0f-8064-737d37564a1e" />
 
 
-- Cliquer sur "Importer dans Garmin Connect":
+- Choisir la séance et cliquer sur "Importer dans Garmin Connect" ou "Importer et ajouter au calendrier" si une date est disponible:
 
-<img width="953" height="860" alt="image" src="https://github.com/user-attachments/assets/d5562017-d09e-4389-92b7-80e376739b0f" />
-
+<img width="640" height="400" alt="Calendar640x400" src="https://github.com/user-attachments/assets/c409d40c-ea15-4207-afef-1134182edc59" />
 
 - L'entrainement est mis en forme avec les temps VMA si sur "AUTO" ou "TOUJOURS" sinon basculer sur "JAMAIS":
 
@@ -140,7 +140,7 @@ Once imported into Garmin Connect, the workout can be **transferred to your watc
 | 🗑️ Bulk delete | Checkboxes in Garmin list → delete multiple workouts at once |
 | 🔄 Retry button | Re-runs analysis on temporary API errors |
 | ❓ Built-in help | ? button in modal → opens PDF guide in browser language |
-| 🌍 6 languages | French, English, Spanish, German, Italian, Russian |
+| 🌍 10 languages | French, English, Spanish, German, Italian, Russian, Português, Brasilian, Chinese, Japanese |
 | 🔒 Privacy | No server — no data collected — API key stored locally |
 | 🆓 Free | Open source — Gemini offers 1500 free analyses per day |
 
