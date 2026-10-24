@@ -70,13 +70,10 @@ Une fois importé dans Garmin Connect, l'entraînement peut être **transféré 
 #### Option 1 — Chrome Web Store (recommandé)
 
 1. Ouvrez le [Chrome Web Store](https://chromewebstore.google.com)
-2. Recherchez **Garmin Workout**
+2. Recherchez **Garmin Workout**: [https://chromewebstore.google.com/detail/garmin-workout-%E2%80%94-s%C3%A9ances/amlgfnkjdpandddidpmnjdeogcoanoia?hl=fr&utm_source=ext_sidebar](url)
    
   <img width="128" height="128" alt="logo-128" src="https://github.com/user-attachments/assets/da600151-19f5-4101-b8cb-018e41f8a076" />
-  
-  <img width="440" height="280" alt="promo-tile-440x280-fr" src="https://github.com/user-attachments/assets/04b67ff7-77e2-48ea-b313-a3b4cd44276c" />
-
-   [https://chromewebstore.google.com/detail/garmin-workout-%E2%80%94-s%C3%A9ances/amlgfnkjdpandddidpmnjdeogcoanoia?hl=fr&utm_source=ext_sidebar](url)
+  <img width="220"  alt="promo-tile-440x280-fr" src="https://github.com/user-attachments/assets/04b67ff7-77e2-48ea-b313-a3b4cd44276c" />
    
 5. Cliquez sur **Ajouter à Chrome**
 6. Confirmez avec **Ajouter l'extension**
@@ -125,9 +122,9 @@ Une fois importé dans Garmin Connect, l'entraînement peut être **transféré 
 ## 🇬🇧 English
 
 ### Overview
-<img width="1280" height="800" alt="screenshot-1280x800-en" src="https://github.com/user-attachments/assets/0826d68f-f27f-4601-9f3f-a083ab0539e2" />
+<img width="1280" height="800" alt="screenshot-1280x800-popup-en" src="https://github.com/user-attachments/assets/4b78d300-fc2d-4938-8101-59e2640570fa" />
 
-<img width="1400" height="560" alt="promo-marquee-1400x560-en" src="https://github.com/user-attachments/assets/b6c243fd-2c8c-4cbc-b65f-2ead75b548f1" />
+<img width="1400" height="560" alt="promo-marquee-1400x560-en" src="https://github.com/user-attachments/assets/ddcdcbba-0e27-470a-8355-2db9fc15a5fe" />
 
 **GarminWO** is a free Chrome extension that imports running workouts directly into **Garmin Connect** from:
 
@@ -159,9 +156,15 @@ Once imported into Garmin Connect, the workout can be **transferred to your watc
 #### Option 1 — Chrome Web Store (recommended)
 
 1. Open the [Chrome Web Store](https://chromewebstore.google.com)
-2. Search for **GarminWO**
-3. Click **Add to Chrome**
-4. Confirm with **Add extension**
+2. Search for **Garmin Workout**
+ 
+   <img width="128" height="128" alt="logo-128" src="https://github.com/user-attachments/assets/9b3d76bd-7631-41d5-aaa1-e71b6d9f6e80" />
+ 
+   <img width="220" alt="promo-tile-440x280-en" src="https://github.com/user-attachments/assets/abc0e1c5-e456-4e13-8e6c-244b2be68369" />
+
+
+4. Click **Add to Chrome**
+5. Confirm with **Add extension**
 
 #### Option 2 — Manual load (developer mode)
 
