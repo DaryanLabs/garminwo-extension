@@ -14,6 +14,11 @@
 ## 🇫🇷 Français
 
 ### Présentation
+<img width="1280" height="800" alt="screenshot-1280x800-popup-fr" src="https://github.com/user-attachments/assets/dded3ce0-72fd-43fc-9c6e-e100c4b96465" />
+<img width="1400" height="560" alt="promo-marquee-1400x560-fr" src="https://github.com/user-attachments/assets/3f5fa23a-2524-4ea2-aaa3-54a5cef86d64" />
+
+
+
 <img width="1280" height="800" alt="screenshot-1280x800-fr" src="https://github.com/user-attachments/assets/cd957887-eb46-4da9-82ff-da8c42a54524" />
 
 <img width="1400" height="560" alt="promo-marquee-1400x560-fr" src="https://github.com/user-attachments/assets/95b33bec-c906-4b02-a971-2f6356add855" />
