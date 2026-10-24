@@ -17,11 +17,6 @@
 <img width="1280" height="800" alt="screenshot-1280x800-popup-fr" src="https://github.com/user-attachments/assets/dded3ce0-72fd-43fc-9c6e-e100c4b96465" />
 <img width="1400" height="560" alt="promo-marquee-1400x560-fr" src="https://github.com/user-attachments/assets/3f5fa23a-2524-4ea2-aaa3-54a5cef86d64" />
 
-
-
-<img width="1280" height="800" alt="screenshot-1280x800-fr" src="https://github.com/user-attachments/assets/cd957887-eb46-4da9-82ff-da8c42a54524" />
-
-<img width="1400" height="560" alt="promo-marquee-1400x560-fr" src="https://github.com/user-attachments/assets/95b33bec-c906-4b02-a971-2f6356add855" />
 **GarminWO** est une extension Chrome gratuite qui permet d'importer des séances d'entraînement running directement dans **Garmin Connect** depuis :
 
 - 📸 Une **photo ou screenshot** de plan d'entraînement (JPG, PNG)
@@ -75,12 +70,14 @@ Une fois importé dans Garmin Connect, l'entraînement peut être **transféré 
 #### Option 1 — Chrome Web Store (recommandé)
 
 1. Ouvrez le [Chrome Web Store](https://chromewebstore.google.com)
-2. Recherchez **Garmin Workout** <img width="128" height="128" alt="icon128" src="https://github.com/user-attachments/assets/583726e7-e397-4a28-bbdc-dc3e5b9c4114" />
+2. Recherchez **Garmin Workout**
+  <img width="128" height="128" alt="logo-128" src="https://github.com/user-attachments/assets/da600151-19f5-4101-b8cb-018e41f8a076" />
+  <img width="440" height="280" alt="promo-tile-440x280-fr" src="https://github.com/user-attachments/assets/04b67ff7-77e2-48ea-b313-a3b4cd44276c" />
 
    [https://chromewebstore.google.com/detail/garmin-workout-%E2%80%94-s%C3%A9ances/amlgfnkjdpandddidpmnjdeogcoanoia?hl=fr&utm_source=ext_sidebar](url)
-4. Cliquez sur **Ajouter à Chrome**
-5. Confirmez avec **Ajouter l'extension**
-6. Renseignez les informations demandées:
+5. Cliquez sur **Ajouter à Chrome**
+6. Confirmez avec **Ajouter l'extension**
+7. Renseignez les informations demandées:
    
    <img width="372" height="647" alt="image" src="https://github.com/user-attachments/assets/1f8098a4-9d84-4165-a186-b8358495c144" />
 
